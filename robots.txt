@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nh6vp9.cuankita.site/sitemap.xml
